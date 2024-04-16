@@ -7,7 +7,6 @@ const Protofolio = () => {
   
 
   return (
-    
     <section id="profile">
     <div className="main-profile">
     <div className="section-pic-container">

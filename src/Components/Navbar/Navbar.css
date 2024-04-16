@@ -18,7 +18,7 @@
     height: 17vh;
   }
   .nav-links {
-    gap: 2rem;
+    gap: 1.5rem;
     list-style: none;
     font-size: 12px;
   }
@@ -34,7 +34,7 @@
     text-decoration-color: rgb(181, 181, 181);
   }
   .logo {
-    font-size: 2rem;
+    font-size: 20px;
     width: 250px;
     transition: 0.5s;
     position: relative;

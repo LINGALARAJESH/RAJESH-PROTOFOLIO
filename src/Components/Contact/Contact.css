@@ -125,17 +125,10 @@ a,
     flex-direction: column;
   }
   
-  
-  #msg {
-    justify-self: center;
-    align-self: center;
-  }
-  /* section {
-  height: 96vh;
-  margin: 2vh 10rem;
-  box-sizing: content-box;
-  min-height: fit-content;
-} */
+.subtitle{
+      font-size: 15px;
+}
+
 
 @media(max-width:1000px){
   #contact {
@@ -168,13 +161,13 @@ form input, form textarea {
     flex-direction: column;
 }
 .contact-left {
-  gap: 1rem;
+  gap:10px;
 }
 .contact-left h1 {
   margin-bottom: 0;
 }
 .contact-container {
-  gap: 1rem;
+  gap:10px;
 }
 form input, form textarea {
   font-size: 9px;
